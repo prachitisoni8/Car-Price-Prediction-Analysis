@@ -2,17 +2,6 @@
 
 This project is an analysis of car price prediction using a dataset that includes various features of cars. The goal of this project is to develop a predictive model to estimate the price of a car based on factors like make, model, year, mileage, and other relevant features.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Project Structure](#project-structure)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis)
-- [Modeling](#modeling)
-- [Results](#results)
-- [Conclusion](#conclusion)
-- [Future Work](#future-work)
-
 ## Introduction
 Car prices are influenced by many factors such as age, brand, condition, and mileage. The aim of this project is to use machine learning algorithms to build a model that can predict car prices accurately. This analysis is done using Python and various data analysis and machine learning libraries.
 
